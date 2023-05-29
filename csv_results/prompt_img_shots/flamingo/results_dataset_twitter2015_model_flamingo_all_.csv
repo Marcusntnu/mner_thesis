@@ -1,0 +1,4 @@
+f_score,recall,accuracy,model,precision,mets,prompt,img,shots,ent_met_person,acc_met_person,ent_met_misceallonous,acc_met_misceallonous,ent_met_organization,acc_met_organization,ent_met_location,acc_met_location,ent_met_none,acc_met_none,f_score0_promptTrue
+0,0,0.0,flamingo,0,0-150-0-930,0_prompt,True,2,157,0,54,0,72,0,123,0,674,0,0
+0,0,0.0,flamingo,0,0-150-0-930,0_prompt,True,1,157,0,54,0,72,0,123,0,674,0,0
+0,0,0.0,flamingo,0,0-150-0-930,0_prompt,True,0,157,0,54,0,72,0,123,0,674,0,0
