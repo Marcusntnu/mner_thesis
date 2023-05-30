@@ -1,0 +1,6 @@
+f_score,recall,accuracy,model,precision,mets,prompt,img,shots,ent_met_person,acc_met_person,ent_met_misceallonous,acc_met_misceallonous,ent_met_organization,acc_met_organization,ent_met_location,acc_met_location,ent_met_none,acc_met_none,f_score0_promptFalse,f_score4_promptFalse,f_score2_promptFalse,f_score3_promptFalse,f_score1_promptFalse
+0.06783919597989949,0.05172413793103448,0.3893004115226337,bert-large-uncased-whole-word-masking-squad2,0.09854014598540146,27-495-446-247,0_prompt,False,0,,,,,,,,,,,0.06783919597989949,,,,
+0.12684989429175475,0.11741682974559686,0.3201646090534979,bert-large-uncased-whole-word-masking-squad2,0.13793103448275862,60-451-329-375,4_prompt,False,0,,,,,,,,,,,,0.12684989429175475,,,
+0.0888382687927107,0.07738095238095238,0.34156378600823045,bert-large-uncased-whole-word-masking-squad2,0.10427807486631016,39-465-376-335,2_prompt,False,0,,,,,,,,,,,,,0.0888382687927107,,
+0.1,0.08946322067594434,0.3333333333333333,bert-large-uncased-whole-word-masking-squad2,0.11335012594458438,45-458-360-352,3_prompt,False,0,,,,,,,,,,,,,,0.1,
+0.09956709956709957,0.09368635437881874,0.31522633744855966,bert-large-uncased-whole-word-masking-squad2,0.10623556581986143,46-445-337-387,1_prompt,False,0,,,,,,,,,,,,,,,0.09956709956709957
